@@ -1,0 +1,6 @@
+OPEN SOURCE MANIFESTO
+Generated on: 25 March 2026
+------------------------------------------
+As a developer and believer in open collaboration, I recognize that tools like git are the foundation of our digital world. To me, the core of open source is independence. In this spirit, I commit to building and sharing website with the global community, ensuring that knowledge remains accessible to all.
+
+Signed, anshi
